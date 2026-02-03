@@ -1,0 +1,21 @@
+# Models and training outputs
+models/
+training/
+*.pth
+*.bin
+
+# Environment
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
