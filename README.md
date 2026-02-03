@@ -1,6 +1,6 @@
 # Swedish BERT for multi-label emotion classification 
 
-This project shows how to fine-tune and use a BERT-model for multi-label emotion classification of Swedish texts.
+This project shows how to fine-tune and use a BERT-model (KB-BERT) for multi-label emotion classification of Swedish texts.
 
 ## Fine-tuning
 
